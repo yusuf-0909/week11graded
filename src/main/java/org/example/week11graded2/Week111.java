@@ -124,7 +124,7 @@ public class Week111 extends Application {
 
         //problem 8
         Pane pane = new Pane();
-        Line line = new Line(0, 0, 0, 0); // endX/endY will be bound
+        Line line = new Line(0, 0, 0, 0);
 
         line.setStroke(Color.GREEN);
         line.setStrokeWidth(3);
